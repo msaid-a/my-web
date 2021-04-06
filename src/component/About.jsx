@@ -15,7 +15,7 @@ class About extends Component {
                                <div className="tools_expert">
                                    <div className="skill_main ">
                            <Fade right>
-                                       <img src="img/banner/me.jpeg" alt="" className="card-img-top"/>
+                                       <img src="img/banner/myPhoto.jpg" alt="" className="card-img-top"/>
                            </Fade>
                                    </div>
                                </div>
@@ -40,6 +40,13 @@ class About extends Component {
                                        <div className="col-md-3 col-3 mb-5">
                                            <div className="rounded">
                                                <img src="img/skills/javascript.png" className="w-100 rounded border" />
+                                           </div>
+                                       </div>
+                                    </Roll>
+                                    <Roll left>
+                                       <div className="col-md-3 col-3 mb-5">
+                                           <div className="rounded">
+                                               <img src="img/skills/ts.png" className="w-100 rounded border" />
                                            </div>
                                        </div>
                                     </Roll>
@@ -75,6 +82,13 @@ class About extends Component {
                                        <div className="col-md-3 col-3 mb-5">
                                            <div className="rounded">
                                            <img src="img/skills/react-native.png" className="w-100 rounded border" />
+                                           </div>
+                                       </div>
+                                       </Roll>
+                                       <Roll left>
+                                       <div className="col-md-3 col-3 mb-5">
+                                           <div className="rounded">
+                                           <img src="img/skills/nextjs.png" className="w-100 rounded border" />
                                            </div>
                                        </div>
                                        </Roll>

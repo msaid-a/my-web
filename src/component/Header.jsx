@@ -23,19 +23,18 @@ export class Header extends Component {
                             <div className="col-lg-6">
                                 <div className="banner_content ml-5">
                                     <h5>Hello.....</h5>
-                                    <h3>Iam Muhammad Said Arrafi</h3>
-                                    <h3>Full Stack Developer & Network Engineer</h3>
-                                    <h4 className=" text-primary">I Can Develop or Configuration</h4>
+                                    <h3>I'am Muhammad Said Arrafi</h3>
+                                    <h3>Front End Developer</h3>
+                                    <h4 className=" text-primary">I Can Develop with</h4>
                                     <TypistLoop interval={0}>
                                         {[
                                         'Javascript',
-                                        'ReactJs + Redux',
+                                        'ReactJs',
                                         'React Native',
-                                        'MongoDB',
+                                        'Redux',
+                                        'Typescript',
+                                        'NextJS',
                                         'MySQL',
-                                        'Mikrotik',
-                                        'Cisco',
-                                        'Linux Server',
                                         ].map(text => <Typist className="h1 text-center" key={text} startDelay={1200}>
                                             {text}
                                             <Typist.Backspace count={text.length +1} delay={1000} />
