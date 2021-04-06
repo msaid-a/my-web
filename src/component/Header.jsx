@@ -5,7 +5,6 @@ import Fade from 'react-reveal/Fade';
 
 
 export class Header extends Component {
-    
 
     render() {
         return (
