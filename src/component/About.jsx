@@ -60,13 +60,6 @@ class About extends Component {
                                        <Roll left>
                                        <div className="col-md-3 col-3 mb-5">
                                            <div className="rounded">
-                                           <img src="img/skills/mongodb.jpeg" className="w-100 rounded border" />
-                                           </div>
-                                       </div>
-                                       </Roll>
-                                       <Roll left>
-                                       <div className="col-md-3 col-3 mb-5">
-                                           <div className="rounded">
                                            <img src="img/skills/nodejs.jpg" className="w-100 rounded border" />
                                            </div>
                                        </div>
@@ -96,13 +89,6 @@ class About extends Component {
                                        <div className="col-md-3 col-3 mb-5">
                                            <div className="rounded">
                                            <img src="img/skills/linux.jpeg" className="w-100 rounded border" />
-                                           </div>
-                                       </div>
-                                       </Roll>
-                                       <Roll left>
-                                       <div className="col-md-3 col-3 mb-5">
-                                           <div className="rounded">
-                                           <img src="img/skills/cisco-logo.jpg" className="w-100 rounded border" />
                                            </div>
                                        </div>
                                        </Roll>

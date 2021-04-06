@@ -9,7 +9,7 @@
     "react-dom": "^16.10.2",
     "react-modal-image": "^2.5.0",
     "react-reveal": "^1.2.2",
-    "react-scripts": "3.2.0",
+    "react-scripts": "^3.2.0",
     "react-scroll": "^1.7.14",
     "react-typist": "^2.0.5",
     "react-typist-loop": "0.0.5"
