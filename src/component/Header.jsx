@@ -23,7 +23,7 @@ export class Header extends Component {
                                 <div className="banner_content ml-5">
                                     <h5>Hello.....</h5>
                                     <h3>I'am Muhammad Said Arrafi</h3>
-                                    <h3>Front End Developer</h3>
+                                    <h3>Frontend Developer</h3>
                                     <h4 className=" text-primary">I Can Develop with</h4>
                                     <TypistLoop interval={0}>
                                         {[

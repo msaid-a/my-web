@@ -96,6 +96,28 @@ class Portofolio extends Component {
                   </div>
                 </div>
               </Fade>
+              <Fade bottom>
+                <div className="col-lg-3 ml-lg-5 mt-5">
+                  <div className="l_blog_item">
+                    <div className="l_blog_img">
+                      <img
+                        className="img-fluid"
+                        src="img/projects/movies.png"
+                        alt
+                      />
+                    </div>
+                    <div className="l_blog_text" style={{ marginTop: 48 }}>
+                      <div className="date"></div>
+                      <a
+                        href="https://movies.msa-noconnection.com/"
+                        target="blank"
+                      >
+                        <h4 className="text-center">Movie List </h4>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </Fade>
               <Fade right>
                 <div className="col-lg-3 ml-lg-5 mt-5">
                   <div className="l_blog_item">
